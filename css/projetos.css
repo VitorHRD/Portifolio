@@ -41,10 +41,18 @@ main{
 }
  .w200{
      width: 200px;
-     
+     height: 350px;
      
     }
+    .w300{
+        width: 220px;
+        
+        
+       }
 
+.toptext{
+    border-bottom: rgba(0, 0, 0, 0.247) 0.4px  solid ;
+}
 .nav-list{
     list-style: none;
    display: flex;
