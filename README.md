@@ -6,7 +6,7 @@
 <a href="https://VitorHRD.github.io/portifolio/">🔗 Site</a>
 </h2
 
-<h1 align="center">Site em funcionamento<h1>
+<h1 align="center"> 🚀Site em funcionamento<h1>
 <img src="./imagens/gif3.gif"></img>
 <h1>🚀 Tecnologias</h1>
  
