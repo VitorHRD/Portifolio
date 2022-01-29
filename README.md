@@ -3,7 +3,7 @@
 <h2 align="center">Ainda esta em fase inicial</h2>
 
 <h2 color="blue" align="center">
-<a href="https://VitorHRD.github.io/portifolio/">🔗 Site</a>
+<a href="https://VitorHRD.github.io/Portifolio/">🔗 Site</a>
 </h2
 
 <h1 align="center"> 🚀Site em funcionamento<h1>
